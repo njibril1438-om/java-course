@@ -4,7 +4,7 @@ public static void main(String[] args) {
 // System.getProperty() retrieves system properties. 
 // "java.version" returns the Java version. 
 String version = System.getProperty("java.version"); 
-
+""
  
  
         // "java.home" returns the installation directory of Java. 
